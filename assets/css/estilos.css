@@ -1,0 +1,33 @@
+
+
+.planilla{
+    border: 1px black solid;
+    background-color: darkgrey;
+
+}
+
+h1{
+    text-align: left;
+    font-size: 2rem;
+}
+
+.linea{
+    color: black;
+}
+
+.inputBoton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:5px;
+}
+
+#input{
+    width: 70%;
+}
+
+#boton{
+    background-color: forestgreen;
+    color: white;
+    padding: 2px;
+}
